@@ -61,20 +61,6 @@ Full-stack AI platform for real-time fake content & phishing detection with ~95%
 - 🌐 Backend deployed live on Render
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarsika&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarsika&theme=default" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarsika&layout=compact&theme=default" height="165"/>
-</p>
-
----
-
 ### 🏆 Achievements & Certifications
 
 - 🏅 Limca Book of Records | Guinness World Record Participation
